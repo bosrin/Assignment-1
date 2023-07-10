@@ -1,0 +1,33 @@
+.beautiful{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    background-color:  rgba(229, 84, 115, 0.10);
+       
+}
+.beautiful-flowers {
+    color: #272727;
+
+font-size: 80px;
+
+font-weight: 800;
+
+
+}
+
+.flowers{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+
+}
+.btn-shop{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    display: inline-flex;
+padding: 20px 35px;
+align-items: center;
+}
